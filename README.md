@@ -51,3 +51,4 @@ export default tseslint.config({
 some information about the project
 
 - shadcn is used in the project
+- react hook form is used for form management
