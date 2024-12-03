@@ -48,3 +48,6 @@ export default tseslint.config({
   },
 })
 ```
+some information about the project
+
+- shadcn is used in the project
